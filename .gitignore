@@ -1,0 +1,17 @@
+# Gradle build files and directories
+.gradle/
+build/
+
+# IDE-specific files
+*.iml
+.idea/
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Executables
+bin/
